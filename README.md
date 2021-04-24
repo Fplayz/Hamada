@@ -78,6 +78,6 @@ Jokes API : [Sv443](https://sv443.net/jokeapi/v2/joke/Any)
 - <https://github.com/Fplayz>
 - Discord : ! FplayzCraft#8873
 
-## Copyright and license
+## Copyright
 
-Code and documentation copyright 2021 the authors. Code released under the [MIT License](https://github.com/Fplayz/Hamada/blob/master/LICENSE).
+All in this repository is free to use. Just give me the credit at the code...
