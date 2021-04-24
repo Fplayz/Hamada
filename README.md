@@ -8,7 +8,7 @@
   <p align="center">
     Short description
     <br>
-    <a href="https://github.com/Fplayz/issues">Report bug</a>
+    <a href="https://github.com/Fplayz/Hamada/issues">Report bug</a>
     ·
     <a href="https://discord.com/api/oauth2/authorize?client_id=827058809847545905&permissions=8&scope=bot">Invite the bot</a>
   </p>
