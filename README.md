@@ -1,16 +1,16 @@
 <p align="center">
-  <a href="https://discord.com/api/oauth2/authorize?client_id=827058809847545905&permissions=8&scope=bot">
+  <a href="hhttps://dsc.gg/astelixzbot">
     <img src="https://cdn.discordapp.com/avatars/827058809847545905/8e33890c9112d00eeca5e57d43f5decc.webp?size=2048" alt="Logo" width=350 height=350>
   </a>
 
-  <h3 align="center">Logo</h3>
+  <h3 align="center">Avatar</h3>
 
   <p align="center">
-    Short description
+    Detailed description
     <br>
     <a href="https://github.com/Fplayz/Hamada/issues">Report bug</a>
     ·
-    <a href="https://discord.com/api/oauth2/authorize?client_id=827058809847545905&permissions=8&scope=bot">Invite the bot</a>
+    <a href="https://dsc.gg/astelixzbot">Invite the bot</a>
   </p>
 </p>
 
