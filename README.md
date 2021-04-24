@@ -5,23 +5,15 @@ Dumb discord bot.
 
 ### Fun commands :
 
-01.avatar
-
-02.gayrate
-
-03.roast
-
-04.kill
-
-05.translate || translate-id
-
-06.timer
-
-07.triggered
-
-08.reverse
-
-09.joke
+- avatar
+- gayrate
+- roast
+- kill
+- translate || translate-id
+- timer
+- triggered
+- reverse
+- joke
 
 ### Searching :
 
