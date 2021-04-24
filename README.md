@@ -32,12 +32,19 @@ Dumb discord bot.
 ### Moderations :
 
 01.purge
+
 02.ban
+
 03.unban
+
 04.slowmode
+
 05.reactionroles
+
 06.lock
+
 07.unlock
+
 08.warn
 
 ### Music :
