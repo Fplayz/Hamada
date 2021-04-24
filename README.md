@@ -1,0 +1,2 @@
+# Hamada
+Dumb discord bot.
