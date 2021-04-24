@@ -1,6 +1,6 @@
 <p align="center">
   <a href="hhttps://dsc.gg/astelixzbot">
-    <img src="https://cdn.discordapp.com/avatars/827058809847545905/8e33890c9112d00eeca5e57d43f5decc.webp?size=2048" alt="Logo" width=350 height=350>
+    <img src="https://cdn.discordapp.com/avatars/827058809847545905/8e33890c9112d00eeca5e57d43f5decc.webp?size=2048" alt="Logo" width=170 height=170>
   </a>
 
   <h3 align="center">Hamada's Bot</h3>
