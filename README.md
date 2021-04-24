@@ -17,6 +17,11 @@
 # Hamada
 Dumb discord bot.
 
+## Packages
+```
+npm install
+```
+
 ## Features
 
 ### Fun commands :
