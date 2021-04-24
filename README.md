@@ -6,18 +6,27 @@ Dumb discord bot.
 ### Fun commands :
 
 01.avatar
+
 02.gayrate
+
 03.roast
+
 04.kill
+
 05.translate || translate-id
+
 06.timer
+
 07.triggered
+
 08.reverse
+
 09.joke
 
 ### Searching :
 
 01.google
+
 02.yt
 
 ### Moderations :
@@ -34,17 +43,27 @@ Dumb discord bot.
 ### Music :
 
 01.play
+
 02.stop
+
 03.shuffle
+
 04.queue
+
 05.resume
+
 06.pause
+
 07.lyrics
+
 08.np
+
 09.skip
+
 10.volume
 
-## Creadits
+## Credits
 
 Library : [Discord.js](https://discord.js.org/)
+
 Jokes API : [Sv443](https://sv443.net/jokeapi/v2/joke/Any)
