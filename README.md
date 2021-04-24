@@ -8,9 +8,9 @@
   <p align="center">
     Short description
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
+    <a href="https://github.com/Fplayz/issues">Report bug</a>
     ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <a href="https://discord.com/api/oauth2/authorize?client_id=827058809847545905&permissions=8&scope=bot">Invite the bot</a>
   </p>
 </p>
 
@@ -33,52 +33,45 @@ Dumb discord bot.
 
 ### Searching :
 
-01.google
-
-02.yt
+- google
+- yt
 
 ### Moderations :
 
-01.purge
-
-02.ban
-
-03.unban
-
-04.slowmode
-
-05.reactionroles
-
-06.lock
-
-07.unlock
-
-08.warn
+- purge
+- ban
+- unban
+- slowmode
+- reactionroles
+- lock
+- unlock
+- warn
 
 ### Music :
 
-01.play
-
-02.stop
-
-03.shuffle
-
-04.queue
-
-05.resume
-
-06.pause
-
-07.lyrics
-
-08.np
-
-09.skip
-
-10.volume
+- play
+- stop
+- shuffle
+- queue
+- resume
+- pause
+- lyrics
+- np
+- skip
+- volume
 
 ## Credits
 
 Library : [Discord.js](https://discord.js.org/)
 
 Jokes API : [Sv443](https://sv443.net/jokeapi/v2/joke/Any)
+
+## Creators
+
+**Creator**
+
+- <https://github.com/Fplayz>
+
+## Copyright and license
+
+Code and documentation copyright 2021 the authors. Code released under the [MIT License](https://github.com/Fplayz/Hamada/blob/master/LICENSE).
