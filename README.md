@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://cdn.discordapp.com/avatars/827058809847545905/8e33890c9112d00eeca5e57d43f5decc.webp?size=2048">
-    <img src="https://via.placeholder.com/72" alt="Logo" width=2048 height=2048>
+  <a href="https://discord.com/api/oauth2/authorize?client_id=827058809847545905&permissions=8&scope=bot">
+    <img src="https://cdn.discordapp.com/avatars/827058809847545905/8e33890c9112d00eeca5e57d43f5decc.webp?size=2048" alt="Logo" width=350 height=350>
   </a>
 
   <h3 align="center">Logo</h3>
